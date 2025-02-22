@@ -1,0 +1,340 @@
+﻿@model List<BooklyProject.Entities.Book>
+
+<section id="items-listing" class="padding-large">
+    <div class="container">
+        <div class="row">
+            <!-- Featured Books -->
+            <div class="col-md-6 mb-4 mb-lg-0 col-lg-3">
+                <div class="featured border rounded-3 p-4">
+                    <div class="section-title overflow-hidden mb-5 mt-2">
+                        <h3 class="d-flex flex-column mb-0">Öne Çıkanlar</h3>
+                    </div>
+                    <div class="items-lists">
+                        @foreach (var item in Model)
+                        {
+                            <div class="item d-flex">
+                                <img src="@item.CoverImageUrl" class="img-fluid shadow-sm" alt="product item">
+                                <div class="item-content ms-3">
+                                    <h6 class="mb-0 fw-bold"><a href="index.html">@item.BookName</a></h6>
+                                    <div class="review-content d-flex">
+                                        <p class="my-2 me-2 fs-6 text-black-50">@item.Author.Name</p>
+                                        <div class="rating text-warning d-flex align-items-center">
+                                            @if (item.Review == 1)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 2)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 3)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 4)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                            }
+                                            @if (item.Review == 5)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+
+
+                                        </div>
+                                    </div>
+                                    @*<span class="price text-primary fw-bold mb-2 fs-5">@item.Price</span>*@
+                                </div>
+                            </div>
+
+
+                            <div class="price-section">
+                                @if (item.IsOnSale)
+                                {
+                                    <div class="price-section">
+                                        <span class="text-info fw-semibold text-decoration-line-through fs-5 opacity-75">
+                                            @item.Price.ToString("C")
+                                        </span>
+                                        <span class="price text-primary fw-bold mb-2 fs-4 ms-2">
+                                            @((item.Price * (100 - item.DiscountRate) / 100).ToString("C"))
+                                        </span>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <span class="price text-primary fw-bold mb-2 fs-4">@item.Price.ToString("C")</span>
+                                }
+                            </div>
+
+                            <hr class="gray-400">
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <!-- Latest Books -->
+            <div class="col-md-6 mb-4 mb-lg-0 col-lg-3">
+                <div class="latest-items border rounded-3 p-4">
+                    <div class="section-title overflow-hidden mb-5 mt-2">
+                        <h3 class="d-flex flex-column mb-0">Son Eklenenler</h3>
+                    </div>
+                    <div class="items-lists">
+                        @foreach (var item in ViewBag.LastAdded as List<BooklyProject.Entities.Book>)
+                        {
+                            <div class="item d-flex">
+                                <img src="@item.CoverImageUrl" class="img-fluid shadow-sm" alt="product item">
+                                <div class="item-content ms-3">
+                                    <h6 class="mb-0 fw-bold"><a href="index.html">@item.BookName</a></h6>
+                                    <div class="review-content d-flex">
+                                        <p class="my-2 me-2 fs-6 text-black-50">@item.Author.Name</p>
+                                        <div class="rating text-warning d-flex align-items-center">
+                                            @if (item.Review == 1)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 2)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 3)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 4)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                            }
+                                            @if (item.Review == 5)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+
+                                        </div>
+                                    </div>
+                                    @*<span class="price text-primary fw-bold mb-2 fs-5">@item.Price</span>*@
+                                </div>
+                            </div>
+                            <div class="price-section">
+                                @if (item.IsOnSale)
+                                {
+                                    <div class="price-section">
+                                        <span class="text-info fw-semibold text-decoration-line-through fs-5 opacity-75">
+                                            @item.Price.ToString("C")
+                                        </span>
+                                        <span class="price text-primary fw-bold mb-2 fs-4 ms-2">
+                                            @((item.Price * (100 - item.DiscountRate) / 100).ToString("C"))
+                                        </span>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <span class="price text-primary fw-bold mb-2 fs-4">@item.Price.ToString("C")</span>
+                                }
+                            </div>
+
+
+
+
+
+
+
+
+
+
+                            <hr class="gray-400">
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 mb-4 mb-lg-0 col-lg-3">
+                <div class="best-reviewed border rounded-3 p-4">
+                    <div class="section-title overflow-hidden mb-5 mt-2">
+                        <h3 class="d-flex flex-column mb-0">En çok satanlar</h3>
+                    </div>
+                    <div class="items-lists">
+                        @foreach (var item in Model)
+                        {
+                            <div class="item d-flex">
+                                <img src="@item.CoverImageUrl" class="img-fluid shadow-sm" alt="product item">
+                                <div class="item-content ms-3">
+                                    <h6 class="mb-0 fw-bold"><a href="index.html">@item.BookName</a></h6>
+                                    <div class="review-content d-flex">
+                                        <p class="my-2 me-2 fs-6 text-black-50">@item.Author.Name</p>
+                                        <div class="rating text-warning d-flex align-items-center">
+                                            @if (item.Review == 1)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 2)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 3)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 4)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                            }
+                                            @if (item.Review == 5)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+
+                                        </div>
+                                    </div>
+                                    @*<span class="price text-primary fw-bold mb-2 fs-5">@item.Price</span>*@
+                                </div>
+                            </div>
+                            <div class="price-section">
+                                @if (item.IsOnSale)
+                                {
+                                    <div class="price-section">
+                                        <span class="text-info fw-semibold text-decoration-line-through fs-5 opacity-75">
+                                            @item.Price.ToString("C")
+                                        </span>
+                                        <span class="price text-primary fw-bold mb-2 fs-4 ms-2">
+                                            @((item.Price * (100 - item.DiscountRate) / 100).ToString("C"))
+                                        </span>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <span class="price text-primary fw-bold mb-2 fs-4">@item.Price.ToString("C")</span>
+                                }
+                            </div>
+
+
+
+
+                            <hr class="gray-400">
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <!-- On Sale Books -->
+            <div class="col-md-6 mb-4 mb-lg-0 col-lg-3">
+                <div class="on-sale border rounded-3 p-4">
+                    <div class="section-title overflow-hidden mb-5 mt-2">
+                        <h3 class="d-flex flex-column mb-0">İndirimdekiler</h3>
+                    </div>
+                    <div class="items-lists">
+                        @foreach (var item in ViewBag.isOnSale as List<BooklyProject.Entities.Book>)
+                        {
+                            <div class="item d-flex">
+                                <img src="@item.CoverImageUrl" class="img-fluid shadow-sm" alt="product item">
+                                <div class="item-content ms-3">
+                                    <h6 class="mb-0 fw-bold"><a href="index.html">@item.BookName</a></h6>
+                                    <div class="review-content d-flex">
+                                        <p class="my-2 me-2 fs-6 text-black-50">@item.Author.Name</p>
+                                        <div class="rating text-warning d-flex align-items-center">
+                                            @if (item.Review == 1)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 2)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 3)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+                                            @if (item.Review == 4)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                            }
+                                            @if (item.Review == 5)
+                                            {
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+                                                <svg class="star star-fill"><use xlink:href="#star-fill"></use></svg>
+
+                                            }
+
+                                        </div>
+                                    </div>
+                                    <div class="price-section">
+                                        @if (item.IsOnSale)
+                                        {
+                                            <div class="price-section">
+                                                <span class="text-info fw-semibold text-decoration-line-through fs-5 opacity-75">
+                                                    @item.Price.ToString("C")
+                                                </span>
+                                                <span class="price text-primary fw-bold mb-2 fs-4 ms-2">
+                                                    @((item.Price * (100 - item.DiscountRate) / 100).ToString("C"))
+                                                </span>
+                                            </div>
+                                        }
+                                        else
+                                        {
+                                            <span class="price text-primary fw-bold mb-2 fs-4">@item.Price.ToString("C")</span>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                            <hr class="gray-400">
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

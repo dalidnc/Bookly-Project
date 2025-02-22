@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "AddPhoto";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h3>Yeni Fotoğraf Ekle</h3>
+
+<form asp-action="AddPhoto" method="post">
+    <form method="post">
+        <label>Fotoğraf Url</label>
+        <input type="text" name="ImageUrl" class="form-control" required />
+        <br />
+        <label>Gösterim Durumu</label><br />
+        <div>
+            <label>
+                <input type="radio" name="IsShown" value="true" required /> Evet
+            </label>
+            <label>
+                <input type="radio" name="IsShown" value="false" required /> Hayır
+            </label>
+        </div>
+<br />
+
+        <button class="btn btn-outline-dark"><i class="fa fa-save"></i> Ekle</button>
+    </form>
+</form>
+

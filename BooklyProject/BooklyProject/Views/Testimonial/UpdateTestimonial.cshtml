@@ -1,0 +1,45 @@
+﻿@model BooklyProject.Entities.Testimonial
+@{
+    ViewBag.Title = "UpdateTestimonial";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+
+<h3>Yorumları Güncelle</h3>
+<form method="post">
+    <input type="hidden" name="TestimonialId" value="@Model.TestimonialId" />
+
+    <label>Yazar Adı</label>
+    <input type="text" name="Name" value="@Model.Name" class="form-control" required />
+    <br />
+
+    <label>Yorum</label>
+    <input type="text" name="Comment" value="@Model.Comment" class="form-control" required />
+    <br />
+
+    <label>Puan</label>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="Review" value="1" @(Model.Review == 1 ? "checked" : "")>
+        <label class="form-check-label">1</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="Review" value="2" @(Model.Review == 2 ? "checked" : "")>
+        <label class="form-check-label">2</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="Review" value="3" @(Model.Review == 3 ? "checked" : "")>
+        <label class="form-check-label">3</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="Review" value="4" @(Model.Review == 4 ? "checked" : "")>
+        <label class="form-check-label">4</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="Review" value="5" @(Model.Review == 5 ? "checked" : "")>
+        <label class="form-check-label">5</label>
+    </div>
+    <br />
+
+    <button class="btn btn-outline-dark"><i class="fa fa-pen"></i> Güncelle</button>
+</form>

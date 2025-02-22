@@ -1,0 +1,32 @@
+﻿﻿@model BooklyProject.Entities.PhotoGallery
+@{
+    ViewBag.Title = "UpdatePhoto";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<h3>Fotoğraf Güncelle</h3>
+
+<form method="post">
+    <input type="hidden" name="PhotoGalleryId" value="@Model.PhotoGalleryId" />
+
+  
+    <label for="ImageUrl">Resim URL</label>
+    <input type="text" id="ImageUrl" name="ImageUrl" value="@Model.ImageUrl" class="form-control" required />
+    <br />
+
+
+    <label>Gösterim Durumu</label>
+    <div class="form-check">
+        <input type="radio" id="isShownYes" name="IsShown" value="true" class="form-check-input" @(Model.IsShown ? "checked" : "") required />
+        <label for="isShownYes" class="form-check-label">Evet</label>
+    </div>
+    <div class="form-check">
+        <input type="radio" id="isShownNo" name="IsShown" value="false" class="form-check-input" @(Model.IsShown ? "" : "checked") required />
+        <label for="isShownNo" class="form-check-label">Hayır</label>
+    </div>
+    <br />
+
+    
+    <button type="submit" class="btn btn-outline-dark">
+        <i class="fa fa-pen"></i> Güncelle
+    </button>
+</form>

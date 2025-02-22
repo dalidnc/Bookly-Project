@@ -1,0 +1,639 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\testimonial\\tolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\testimonial\\tolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\adminlayout\\adminlayoutnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\adminlayout\\adminlayoutnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\message\\updatemessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\message\\updatemessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\controllers\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\controllers\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\message\\listmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\message\\listmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\photo\\updatephoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\photo\\updatephoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\testimonial\\addtestimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\testimonial\\addtestimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\testimonial\\updatetestimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\testimonial\\updatetestimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\author\\updateauthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\author\\updateauthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\default\\testimonialpart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\default\\testimonialpart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\dashboard\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\dashboard\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\photo\\listphoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\photo\\listphoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\default\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\default\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\profile\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\profile\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|c:\\users\\dursun ali\\source\\repos\\booklyproject\\booklyproject\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\controllers\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\controllers\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\migrations\\202502191709320_added_imageurl_in_admin_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\migrations\\202502191709320_added_imageurl_in_admin_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\default\\orderbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\default\\orderbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\book\\updatebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\book\\updatebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\book\\cheapestbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\book\\cheapestbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\author\\authorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\author\\authorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\book\\isonsalebooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\book\\isonsalebooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\booklyproject\\views\\book\\expensivebooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56604158-34E5-4CC4-A701-37A0FBFD57D7}|BooklyProject\\BooklyProject.csproj|solutionrelative:booklyproject\\views\\book\\expensivebooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAkwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T16:25:02.891Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "BooklyProject\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "BooklyProject\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:17:39.48Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Testimonial\\ToList.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Testimonial\\ToList.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Testimonial\\ToList.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Testimonial\\ToList.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:43:15.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLayoutNavbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\AdminLayout\\AdminLayoutNavbar.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\AdminLayout\\AdminLayoutNavbar.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\AdminLayout\\AdminLayoutNavbar.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\AdminLayout\\AdminLayoutNavbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T17:50:29.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminLayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\AdminLayoutController.cs",
+              "RelativeDocumentMoniker": "BooklyProject\\Controllers\\AdminLayoutController.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\AdminLayoutController.cs",
+              "RelativeToolTip": "BooklyProject\\Controllers\\AdminLayoutController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:54:15.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\AdminLayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\AdminLayout\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAEoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T16:41:48.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T16:24:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhotoController.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\PhotoController.cs",
+              "RelativeDocumentMoniker": "BooklyProject\\Controllers\\PhotoController.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\PhotoController.cs",
+              "RelativeToolTip": "BooklyProject\\Controllers\\PhotoController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:47:14.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Message\\UpdateMessage.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Message\\UpdateMessage.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Message\\UpdateMessage.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Message\\UpdateMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:28:12.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestimonialController.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\TestimonialController.cs",
+              "RelativeDocumentMoniker": "BooklyProject\\Controllers\\TestimonialController.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\TestimonialController.cs",
+              "RelativeToolTip": "BooklyProject\\Controllers\\TestimonialController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:40:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Message\\ListMessage.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Message\\ListMessage.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Message\\ListMessage.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Message\\ListMessage.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:28:13.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdatePhoto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Photo\\UpdatePhoto.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Photo\\UpdatePhoto.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Photo\\UpdatePhoto.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Photo\\UpdatePhoto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:08:33.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddTestimonial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Testimonial\\AddTestimonial.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Testimonial\\AddTestimonial.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Testimonial\\AddTestimonial.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Testimonial\\AddTestimonial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:19:10.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Category\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Category\\AddCategory.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Category\\AddCategory.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Category\\AddCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:19:29.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateTestimonial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Testimonial\\UpdateTestimonial.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Testimonial\\UpdateTestimonial.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Testimonial\\UpdateTestimonial.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Testimonial\\UpdateTestimonial.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:01:24.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateAuthor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Author\\UpdateAuthor.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Author\\UpdateAuthor.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Author\\UpdateAuthor.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Author\\UpdateAuthor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T11:01:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "BooklyProject\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "BooklyProject\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:18:32.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestimonialPart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Default\\TestimonialPart.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Default\\TestimonialPart.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Default\\TestimonialPart.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Default\\TestimonialPart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:35:46.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Dashboard\\BookList.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Dashboard\\BookList.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Dashboard\\BookList.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Dashboard\\BookList.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:43:23.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListPhoto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Photo\\ListPhoto.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Photo\\ListPhoto.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Photo\\ListPhoto.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Photo\\ListPhoto.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:44:46.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Default\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Default\\Gallery.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Default\\Gallery.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Default\\Gallery.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:36:02.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Profile\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Profile\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Profile\\ChangePassword.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Profile\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T18:56:52.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T17:21:34.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T18:29:58.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BooklyProject\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BooklyProject\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:42:40.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "BooklyProject\\Controllers\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\BookViewModel.cs",
+              "RelativeToolTip": "BooklyProject\\Controllers\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:05:57.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "BooklyProject\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Entities\\Admin.cs",
+              "RelativeToolTip": "BooklyProject\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:04:49.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "202502191709320_added_imageUrl_in_Admin_Table.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Migrations\\202502191709320_added_imageUrl_in_Admin_Table.cs",
+              "RelativeDocumentMoniker": "BooklyProject\\Migrations\\202502191709320_added_imageUrl_in_Admin_Table.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Migrations\\202502191709320_added_imageUrl_in_Admin_Table.cs",
+              "RelativeToolTip": "BooklyProject\\Migrations\\202502191709320_added_imageUrl_in_Admin_Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:09:37.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Default\\OrderBooks.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Default\\OrderBooks.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Default\\OrderBooks.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Default\\OrderBooks.cshtml",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAkwDUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T16:37:16.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T16:24:51.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T16:07:06.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Book\\UpdateBook.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Book\\UpdateBook.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Book\\UpdateBook.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Book\\UpdateBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T16:11:13.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BooklyProject\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BooklyProject\\Controllers\\BookController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:59:47.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthorList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Author\\AuthorList.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Author\\AuthorList.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Author\\AuthorList.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Author\\AuthorList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T10:59:50.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "isOnSaleBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Book\\isOnSaleBooks.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Book\\isOnSaleBooks.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Book\\isOnSaleBooks.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Book\\isOnSaleBooks.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T16:10:38.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "cheapestBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Book\\cheapestBooks.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Book\\cheapestBooks.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Book\\cheapestBooks.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Book\\cheapestBooks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T16:08:47.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "expensiveBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Book\\expensiveBooks.cshtml",
+              "RelativeDocumentMoniker": "BooklyProject\\Views\\Book\\expensiveBooks.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\BooklyProject\\BooklyProject\\Views\\Book\\expensiveBooks.cshtml",
+              "RelativeToolTip": "BooklyProject\\Views\\Book\\expensiveBooks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T16:09:52.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

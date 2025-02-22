@@ -1,0 +1,39 @@
+﻿@model List<BooklyProject.Entities.PhotoGallery>
+
+@{
+    ViewBag.Title = "PhotoIndex";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h3>Fotoğraf Galerisi</h3>
+@{
+    int count = 0;
+}
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>#</th>
+        <th>Resim</th>
+        <th>Resim URL</th>
+        <th>Gösterim Durumu</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        count++;
+
+        <tr>
+            <th>@count</th>
+            <td><img src="@item.ImageUrl" style="width:75px;height:75px" alt="Fotoğraf" /></td>
+            <td>@item.ImageUrl</td> 
+            <td>@(item.IsShown ? "Evet" : "Hayır")</td> 
+            <td><a href="/Photo/DeletePhoto/@item.PhotoGalleryId" class="btn btn-outline-danger"><i class="fa fa-trash"></i> Sil</a></td>
+            <td><a href="/Photo/UpdatePhoto/@item.PhotoGalleryId" class="btn btn-outline-info"><i class="fa fa-pen"></i> Güncelle</a></td>
+        </tr>
+    }
+</table>
+
+<br />
+<td><a href="/Photo/AddPhoto/" class="btn btn-outline-dark">Yeni Fotoğraf Ekle</a></td>

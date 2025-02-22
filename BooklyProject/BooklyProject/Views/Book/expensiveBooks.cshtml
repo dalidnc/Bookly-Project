@@ -1,0 +1,33 @@
+﻿@model List<BooklyProject.Entities.Book>
+@{
+    ViewBag.Title = "expensiveBooks";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>En Pahalı Kitaplar</h2>
+@{ 
+    int count = 0;
+}
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Kitap Adı</th>
+            <th>Yazar Adı</th>
+            <th>Fiyat</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            count++;
+            <tr>
+                <th>@count</th>
+                <td>@item.BookName</td>
+                <td>@item.Author.Name @item.Author.Surname</td>
+                <td>@item.Price ₺</td>
+            </tr>
+        }
+    </tbody>
+</table>

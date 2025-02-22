@@ -1,0 +1,54 @@
+﻿<!-- İletişim Bölümü -->
+<section id="message" class="position-relative d-flex align-items-center py-5 bg-white" style="background-size: cover; background-position: center;">
+    <div class="container">
+        <div class="text-center mb-4 mt-4">
+            <h3 class="text-dark"><i class="fas fa-paper-plane"></i> Bizimle İletişime Geçin</h3>
+            <p class="text-dark-50">Sorularınız ve geri bildirimleriniz için bizimle iletişime geçin, size yardımcı olmak için buradayız!</p>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-lg-6 text-center">
+                <form action="/Default/SendMessage" method="post">
+                    <div class="form-group">
+                        <input type="text" class="form-control mb-3" name="Name" placeholder="Adınız Soyadınız" required />
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control mb-3" name="Email" placeholder="Email Adresiniz" required />
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control mb-3" name="Subject" placeholder="Konu" required />
+                    </div>
+                    <div class="form-group">
+                        <textarea name="MessageContent" class="form-control mb-3" rows="5" placeholder="Mesajınızı Yazın..." required></textarea>
+                    </div>
+                    <button onclick="sendMessage()" class="btn btn-dark mt-3" type="submit"><i class="fas fa-paper-plane"></i> Mesajı Gönder</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- İletişim İkonları -->
+        <div class="text-center mt-4">
+            <p class="text-dark">Bize Ulaşın:</p>
+            <a href="tel:+1234567890" class="btn btn-outline-dark mx-2"><i class="fas fa-phone-alt"></i> Telefon</a>
+            <a href="mailto:info@example.com" class="btn btn-outline-dark mx-2"><i class="fas fa-envelope"></i> E-posta</a>
+            <a href="https://www.facebook.com/yourpage" target="_blank" class="btn btn-outline-dark mx-2"><i class="fab fa-facebook-f"></i> Facebook</a>
+            <a href="https://www.twitter.com/yourprofile" target="_blank" class="btn btn-outline-dark mx-2"><i class="fab fa-twitter"></i> Twitter</a>
+            <a href="https://www.instagram.com/yourprofile" target="_blank" class="btn btn-outline-dark mx-2"><i class="fab fa-instagram"></i> Instagram</a>
+        </div>
+    </div>
+</section>
+
+<script>
+    function sendMessage() {
+        Swal.fire({
+            title: "Tebrikler!",
+            text: "Mesajınız başarıyla gönderildi!",
+            icon: "success",
+            confirmButtonText: "Tamam",
+            background: '#f8f9fa',
+            color: '#333',
+            padding: '20px',
+            showCloseButton: true
+        });
+    }
+</script>
